@@ -3,3 +3,4 @@ dataset/test
 /backend/server/app/node_modules
 __pycache__
 .DS_Store
+.vscode/
